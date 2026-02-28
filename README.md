@@ -1,2 +1,13 @@
 # CS250
 Repository for CS250 class through SNHU Online.
+
+The Brief Life of a Program
+
+    The following paragraphs discuss the lifecycle of a project from receiving client needs to outputting a feature. We finish off the discussion by outlining what it takes to be a good team member.
+    
+    User needs will first need to be translated to program requirements which can be implemented into program structure. In Agile, the goal of these requirements is a vision of client intent rather than specific implementation steps. User stories are a good method for helping developers and testers understand this intent. They provide the who, what, and why of the feature, with specific implementation requirements (the how) being defined during development. The Product Owner or similar role should communicate with the client to create this vision, leveraging feedback from the developers and testers to direct questions.
+    
+    With user stories in hand, the approach to development should be collaborative and iterative. With a vision of stakeholder intent, the team should discuss the backlog to begin working towards that intent. As product implementation and client expectations become more defined, backlog refinement takes place, adjusting project direction. The more minds looking at a problem, the more perspectives that can be shared, the more questions that can be asked, and the more answers that can be applied to ensure program success. There are many Agile processes that will facilitate this. Pair programming, daily stand-ups, and face-to-face communication are some that will directly involve other programmers reviewing and providing feedback on planned or partially completed programs.
+    
+    From user story to feature roll-out, being an effective team is paramount to repeated success. Information integrity is a phrase I learned recently while studying ethics. I think this concept applies in a lot of ways to being a good team member for software development (or really any industry). It means providing honest and timely feedback both about the capabilities of code and about yourself. Being candid about your wellbeing, your interactions with other people on the team, and about the projects being worked on by the team will ensure the team can act with good information. This process takes effort. Developing the skills to ensure this candor is effective and actionable is how we work towards being good team members. It starts with being honest with yourself and practicing good communication techniques. Even a less than ideal known quantity is better than a potentially ideal unknown quantity.
+
